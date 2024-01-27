@@ -1,2 +1,2 @@
 # grocery-bud
- grocery app
+ Grocery add and delete app created with React and CSS.
